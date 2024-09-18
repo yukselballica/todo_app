@@ -1,16 +1,20 @@
-# workshop
+# TodoApp
 
-A new Flutter project.
+TodoApp, kullanıcıların günlük görevlerini yönetmelerine yardımcı olan basit ve kullanışlı bir mobil uygulamadır. Bu uygulama, görev ekleme, düzenleme ve silme gibi temel işlevleri içerir.
 
-## Getting Started
+## Özellikler
 
-This project is a starting point for a Flutter application.
+- Görev ekleme: Kullanıcılar yeni görevler ekleyebilir.
+- Görev düzenleme: Mevcut görevler düzenlenebilir.
+- Görev silme: Kullanıcılar tamamlanan veya gereksiz görevleri silebilir.
+- Görev listesi: Tüm görevler bir listede görüntülenir.
 
-A few resources to get you started if this is your first Flutter project:
+## Kullanım
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Uygulamayı başlattıktan sonra, ana ekranda görevlerinizi yönetebilirsiniz. Yeni görevler ekleyebilir, mevcut görevleri düzenleyebilir veya silebilirsiniz.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## İletişim
+
+Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen yukselballica2@gmail.com adresinden benimle iletişime geçin.
+
